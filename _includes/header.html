@@ -1,0 +1,16 @@
+<header>
+  <div class="logo">
+    {% if site.data.settings.logo %}
+    <a href="{{ site.github.url }}/">
+      <img src="{{ site.github.url }}/{{ site.data.settings.logo }}" />      
+    </a>
+    {% else %}
+    <a href="{{ site.github.url }}/">{{ site.title }}</a>
+    {% endif %}
+  </div>
+  <nav>
+    {% for item in site.data.settings.menu %}
+      <a href="{{ site.github.url }}/{{ item.url }}">{{ item.name }}</a>
+    {% endfor %}
+  </nav>
+</header>

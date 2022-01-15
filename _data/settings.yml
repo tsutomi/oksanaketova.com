@@ -1,0 +1,55 @@
+#-------------------------------
+# General Site Settings
+
+logo: assets/img/logo.jpg
+
+menu:
+# - {name: 'Works', url: 'works'}
+- {name: 'About',    url: 'about'}
+- {name: 'Contact',  url: 'contact'}
+
+#-------------------------------
+# Projects Section
+
+projects:
+- {name: 'Still Life',   url: 'still-life'}
+- {name: 'Sea Inspirations', url: 'sea-inspirations'}
+
+#-------------------------------
+# Contact Section
+
+social:
+# - {icon: 'twitter',   link: 'https://twitter.com/paululele'}
+- {icon: 'instagram', link: 'https://instagram.com/oksanaketova_art'}
+- {icon: 'envelope',  link: 'mailto:mailto:oksana@oksanaketova.com'}
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Oksana Ketova Portfolio'
+  rel-author: 'https://plus.google.com/u/0/#'
+  rel-publisher: 'https://plus.google.com/u/0/#'
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+# google-analytics-ua: 'UA-112060364-3'
+
+#-------------------------------
+# Disqus Section
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: ''
