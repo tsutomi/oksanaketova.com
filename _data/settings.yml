@@ -1,27 +1,28 @@
+---
 #-------------------------------
 # General Site Settings
 
 logo: assets/img/logo.jpg
 
 menu:
-# - {name: 'Works', url: 'works'}
-- {name: 'About',    url: 'about'}
-- {name: 'Contact',  url: 'contact'}
+  # - {name: 'Works', url: 'works'}
+  - { name: "About", url: "about" }
+  - { name: "Contact", url: "contact" }
 
 #-------------------------------
 # Projects Section
 
 projects:
-- {name: 'Still Life',   url: 'still-life'}
-- {name: 'Sea Inspirations', url: 'sea-inspirations'}
+  - { name: "Still Life", url: "still-life" }
+  - { name: "Sea Inspirations", url: "sea-inspirations" }
 
 #-------------------------------
 # Contact Section
 
 social:
-# - {icon: 'twitter',   link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/oksanaketova_art'}
-- {icon: 'envelope',  link: 'mailto:mailto:oksana@oksanaketova.com'}
+  # - {icon: 'twitter',   link: 'https://twitter.com/paululele'}
+  - { icon: "instagram", link: "https://instagram.com/oksanaketova_art" }
+  - { icon: "envelope", link: "mailto:mailto:oksana@oksanaketova.com" }
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
@@ -31,9 +32,9 @@ social:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Oksana Ketova Portfolio'
-  rel-author: 'https://plus.google.com/u/0/#'
-  rel-publisher: 'https://plus.google.com/u/0/#'
+  description: "Oksana Ketova Portfolio"
+#  rel-author: "https://plus.google.com/u/0/#"
+#  rel-publisher: "https://plus.google.com/u/0/#"
 
 #-------------------------------
 # Google Analytics Section
@@ -44,7 +45,7 @@ seo:
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-# google-analytics-ua: 'UA-112060364-3'
+google-analytics-ua: "G-N6JXZFBCYL"
 
 #-------------------------------
 # Disqus Section
@@ -52,4 +53,4 @@ seo:
 # Change to true for Disqus comments
 disqus:
   comments: false
-  disqus_shortname: ''
+  disqus_shortname: ""
