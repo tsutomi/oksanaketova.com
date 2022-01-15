@@ -10,6 +10,8 @@ permalink: /about
 
 Oksana has always painted through her life. As a child she did it for her mother, at school for friends and teachers, at university for classmates, and at then she started curating the decoration of stores windows of her hometown, Saint Petersburg.
 
-As a self-thought artist, she worked 
+As a self-thought artist, she worked these years evolving her style, reflecting on her feelings, the world's context and the everyday's beauty that surround her.
 
-Don't worry, Oksana is not so egocentric to write about herself in third person: I, her husband, wrote about her 
+---
+
+_Don't worry, Oksana is not so egocentric to write about herself in third person: I, her husband, wrote about her._
