@@ -17,12 +17,12 @@ Series of still-life paintings
 
 ---
 
-[![Pomgrenades 2(2021)](/assets/img/projects/still-life/IMG_2309.jpg)](/assets/img/projects/still-life/IMG_2309.JPG)
+[![Pomgrenades 2(2021)](/assets/img/projects/still-life/IMG_2309.JPG)](/assets/img/projects/still-life/IMG_2309.JPG)
 
 **Pomegrenades 2** (2021) - _Oil on linen canvas_ - 22x27cm
 
 ---
 
-[![Tomatoes(2021)](/assets/img/projects/still-life/IMG_2307.jpg)](/assets/img/projects/still-life/IMG_2307.JPG)
+[![Tomatoes(2021)](/assets/img/projects/still-life/IMG_2307.JPG)](/assets/img/projects/still-life/IMG_2307.JPG)
 
 **Tomatoes** (2021) - _Oil on linen canvas_
