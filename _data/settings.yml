@@ -15,6 +15,7 @@ menu:
 projects:
   - { name: "Still Life", url: "still-life" }
   - { name: "Sea Inspirations", url: "sea-inspirations" }
+  - { name: "Other Works", url: "other-works" }
 
 #-------------------------------
 # Contact Section
